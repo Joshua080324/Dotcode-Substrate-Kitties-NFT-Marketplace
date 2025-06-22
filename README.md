@@ -169,10 +169,9 @@ Building this project taught me:
 I'm always interested in discussing blockchain development and Rust programming!
 
 **Joshua080324**
-- 📧 Email: [your-email@example.com]
-- 💼 LinkedIn: [your-linkedin-profile]
-- 🐦 Twitter: [@your-twitter]
-- 🌐 Portfolio: [your-portfolio-website]
+- 📧 Email: [darius.josua0309@gmail.com]
+- 💼 LinkedIn: [https://www.linkedin.com/in/darius-joshua-6462b0325/]
+
 
 ## 📚 References & Learning Resources
 
