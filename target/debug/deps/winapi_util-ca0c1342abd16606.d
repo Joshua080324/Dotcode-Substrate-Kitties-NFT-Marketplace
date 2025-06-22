@@ -1,0 +1,11 @@
+C:\Users\ASUS\substrate-collectables-workshop\target\debug\deps\winapi_util-ca0c1342abd16606.d: C:\Users\ASUS\.cargo\registry\src\index.crates.io-1949cf8c6b5b557f\winapi-util-0.1.8\src\lib.rs C:\Users\ASUS\.cargo\registry\src\index.crates.io-1949cf8c6b5b557f\winapi-util-0.1.8\src\console.rs C:\Users\ASUS\.cargo\registry\src\index.crates.io-1949cf8c6b5b557f\winapi-util-0.1.8\src\file.rs C:\Users\ASUS\.cargo\registry\src\index.crates.io-1949cf8c6b5b557f\winapi-util-0.1.8\src\sysinfo.rs C:\Users\ASUS\.cargo\registry\src\index.crates.io-1949cf8c6b5b557f\winapi-util-0.1.8\src\win.rs
+
+C:\Users\ASUS\substrate-collectables-workshop\target\debug\deps\libwinapi_util-ca0c1342abd16606.rlib: C:\Users\ASUS\.cargo\registry\src\index.crates.io-1949cf8c6b5b557f\winapi-util-0.1.8\src\lib.rs C:\Users\ASUS\.cargo\registry\src\index.crates.io-1949cf8c6b5b557f\winapi-util-0.1.8\src\console.rs C:\Users\ASUS\.cargo\registry\src\index.crates.io-1949cf8c6b5b557f\winapi-util-0.1.8\src\file.rs C:\Users\ASUS\.cargo\registry\src\index.crates.io-1949cf8c6b5b557f\winapi-util-0.1.8\src\sysinfo.rs C:\Users\ASUS\.cargo\registry\src\index.crates.io-1949cf8c6b5b557f\winapi-util-0.1.8\src\win.rs
+
+C:\Users\ASUS\substrate-collectables-workshop\target\debug\deps\libwinapi_util-ca0c1342abd16606.rmeta: C:\Users\ASUS\.cargo\registry\src\index.crates.io-1949cf8c6b5b557f\winapi-util-0.1.8\src\lib.rs C:\Users\ASUS\.cargo\registry\src\index.crates.io-1949cf8c6b5b557f\winapi-util-0.1.8\src\console.rs C:\Users\ASUS\.cargo\registry\src\index.crates.io-1949cf8c6b5b557f\winapi-util-0.1.8\src\file.rs C:\Users\ASUS\.cargo\registry\src\index.crates.io-1949cf8c6b5b557f\winapi-util-0.1.8\src\sysinfo.rs C:\Users\ASUS\.cargo\registry\src\index.crates.io-1949cf8c6b5b557f\winapi-util-0.1.8\src\win.rs
+
+C:\Users\ASUS\.cargo\registry\src\index.crates.io-1949cf8c6b5b557f\winapi-util-0.1.8\src\lib.rs:
+C:\Users\ASUS\.cargo\registry\src\index.crates.io-1949cf8c6b5b557f\winapi-util-0.1.8\src\console.rs:
+C:\Users\ASUS\.cargo\registry\src\index.crates.io-1949cf8c6b5b557f\winapi-util-0.1.8\src\file.rs:
+C:\Users\ASUS\.cargo\registry\src\index.crates.io-1949cf8c6b5b557f\winapi-util-0.1.8\src\sysinfo.rs:
+C:\Users\ASUS\.cargo\registry\src\index.crates.io-1949cf8c6b5b557f\winapi-util-0.1.8\src\win.rs:

@@ -1,0 +1,11 @@
+C:\Users\ASUS\substrate-collectables-workshop\target\debug\deps\libarrayvec-2edb2b6c40c8213b.rmeta: C:\Users\ASUS\.cargo\registry\src\index.crates.io-1949cf8c6b5b557f\arrayvec-0.7.4\src\lib.rs C:\Users\ASUS\.cargo\registry\src\index.crates.io-1949cf8c6b5b557f\arrayvec-0.7.4\src\arrayvec_impl.rs C:\Users\ASUS\.cargo\registry\src\index.crates.io-1949cf8c6b5b557f\arrayvec-0.7.4\src\arrayvec.rs C:\Users\ASUS\.cargo\registry\src\index.crates.io-1949cf8c6b5b557f\arrayvec-0.7.4\src\array_string.rs C:\Users\ASUS\.cargo\registry\src\index.crates.io-1949cf8c6b5b557f\arrayvec-0.7.4\src\char.rs C:\Users\ASUS\.cargo\registry\src\index.crates.io-1949cf8c6b5b557f\arrayvec-0.7.4\src\errors.rs C:\Users\ASUS\.cargo\registry\src\index.crates.io-1949cf8c6b5b557f\arrayvec-0.7.4\src\utils.rs
+
+C:\Users\ASUS\substrate-collectables-workshop\target\debug\deps\arrayvec-2edb2b6c40c8213b.d: C:\Users\ASUS\.cargo\registry\src\index.crates.io-1949cf8c6b5b557f\arrayvec-0.7.4\src\lib.rs C:\Users\ASUS\.cargo\registry\src\index.crates.io-1949cf8c6b5b557f\arrayvec-0.7.4\src\arrayvec_impl.rs C:\Users\ASUS\.cargo\registry\src\index.crates.io-1949cf8c6b5b557f\arrayvec-0.7.4\src\arrayvec.rs C:\Users\ASUS\.cargo\registry\src\index.crates.io-1949cf8c6b5b557f\arrayvec-0.7.4\src\array_string.rs C:\Users\ASUS\.cargo\registry\src\index.crates.io-1949cf8c6b5b557f\arrayvec-0.7.4\src\char.rs C:\Users\ASUS\.cargo\registry\src\index.crates.io-1949cf8c6b5b557f\arrayvec-0.7.4\src\errors.rs C:\Users\ASUS\.cargo\registry\src\index.crates.io-1949cf8c6b5b557f\arrayvec-0.7.4\src\utils.rs
+
+C:\Users\ASUS\.cargo\registry\src\index.crates.io-1949cf8c6b5b557f\arrayvec-0.7.4\src\lib.rs:
+C:\Users\ASUS\.cargo\registry\src\index.crates.io-1949cf8c6b5b557f\arrayvec-0.7.4\src\arrayvec_impl.rs:
+C:\Users\ASUS\.cargo\registry\src\index.crates.io-1949cf8c6b5b557f\arrayvec-0.7.4\src\arrayvec.rs:
+C:\Users\ASUS\.cargo\registry\src\index.crates.io-1949cf8c6b5b557f\arrayvec-0.7.4\src\array_string.rs:
+C:\Users\ASUS\.cargo\registry\src\index.crates.io-1949cf8c6b5b557f\arrayvec-0.7.4\src\char.rs:
+C:\Users\ASUS\.cargo\registry\src\index.crates.io-1949cf8c6b5b557f\arrayvec-0.7.4\src\errors.rs:
+C:\Users\ASUS\.cargo\registry\src\index.crates.io-1949cf8c6b5b557f\arrayvec-0.7.4\src\utils.rs:

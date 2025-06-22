@@ -1,0 +1,11 @@
+C:\Users\ASUS\substrate-collectables-workshop\target\debug\deps\ed25519_dalek-c36d37756fed76ef.d: C:\Users\ASUS\.cargo\registry\src\index.crates.io-1949cf8c6b5b557f\ed25519-dalek-2.1.1\src\lib.rs C:\Users\ASUS\.cargo\registry\src\index.crates.io-1949cf8c6b5b557f\ed25519-dalek-2.1.1\src\constants.rs C:\Users\ASUS\.cargo\registry\src\index.crates.io-1949cf8c6b5b557f\ed25519-dalek-2.1.1\src\errors.rs C:\Users\ASUS\.cargo\registry\src\index.crates.io-1949cf8c6b5b557f\ed25519-dalek-2.1.1\src\signature.rs C:\Users\ASUS\.cargo\registry\src\index.crates.io-1949cf8c6b5b557f\ed25519-dalek-2.1.1\src\signing.rs C:\Users\ASUS\.cargo\registry\src\index.crates.io-1949cf8c6b5b557f\ed25519-dalek-2.1.1\src\verifying.rs C:\Users\ASUS\.cargo\registry\src\index.crates.io-1949cf8c6b5b557f\ed25519-dalek-2.1.1\src\hazmat.rs
+
+C:\Users\ASUS\substrate-collectables-workshop\target\debug\deps\libed25519_dalek-c36d37756fed76ef.rmeta: C:\Users\ASUS\.cargo\registry\src\index.crates.io-1949cf8c6b5b557f\ed25519-dalek-2.1.1\src\lib.rs C:\Users\ASUS\.cargo\registry\src\index.crates.io-1949cf8c6b5b557f\ed25519-dalek-2.1.1\src\constants.rs C:\Users\ASUS\.cargo\registry\src\index.crates.io-1949cf8c6b5b557f\ed25519-dalek-2.1.1\src\errors.rs C:\Users\ASUS\.cargo\registry\src\index.crates.io-1949cf8c6b5b557f\ed25519-dalek-2.1.1\src\signature.rs C:\Users\ASUS\.cargo\registry\src\index.crates.io-1949cf8c6b5b557f\ed25519-dalek-2.1.1\src\signing.rs C:\Users\ASUS\.cargo\registry\src\index.crates.io-1949cf8c6b5b557f\ed25519-dalek-2.1.1\src\verifying.rs C:\Users\ASUS\.cargo\registry\src\index.crates.io-1949cf8c6b5b557f\ed25519-dalek-2.1.1\src\hazmat.rs
+
+C:\Users\ASUS\.cargo\registry\src\index.crates.io-1949cf8c6b5b557f\ed25519-dalek-2.1.1\src\lib.rs:
+C:\Users\ASUS\.cargo\registry\src\index.crates.io-1949cf8c6b5b557f\ed25519-dalek-2.1.1\src\constants.rs:
+C:\Users\ASUS\.cargo\registry\src\index.crates.io-1949cf8c6b5b557f\ed25519-dalek-2.1.1\src\errors.rs:
+C:\Users\ASUS\.cargo\registry\src\index.crates.io-1949cf8c6b5b557f\ed25519-dalek-2.1.1\src\signature.rs:
+C:\Users\ASUS\.cargo\registry\src\index.crates.io-1949cf8c6b5b557f\ed25519-dalek-2.1.1\src\signing.rs:
+C:\Users\ASUS\.cargo\registry\src\index.crates.io-1949cf8c6b5b557f\ed25519-dalek-2.1.1\src\verifying.rs:
+C:\Users\ASUS\.cargo\registry\src\index.crates.io-1949cf8c6b5b557f\ed25519-dalek-2.1.1\src\hazmat.rs:

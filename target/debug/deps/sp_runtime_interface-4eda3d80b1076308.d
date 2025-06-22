@@ -1,0 +1,9 @@
+C:\Users\ASUS\substrate-collectables-workshop\target\debug\deps\sp_runtime_interface-4eda3d80b1076308.d: C:\Users\ASUS\.cargo\registry\src\index.crates.io-1949cf8c6b5b557f\sp-runtime-interface-28.0.0\src\lib.rs C:\Users\ASUS\.cargo\registry\src\index.crates.io-1949cf8c6b5b557f\sp-runtime-interface-28.0.0\src\host.rs C:\Users\ASUS\.cargo\registry\src\index.crates.io-1949cf8c6b5b557f\sp-runtime-interface-28.0.0\src\impls.rs C:\Users\ASUS\.cargo\registry\src\index.crates.io-1949cf8c6b5b557f\sp-runtime-interface-28.0.0\src\pass_by.rs C:\Users\ASUS\.cargo\registry\src\index.crates.io-1949cf8c6b5b557f\sp-runtime-interface-28.0.0\src\util.rs
+
+C:\Users\ASUS\substrate-collectables-workshop\target\debug\deps\libsp_runtime_interface-4eda3d80b1076308.rmeta: C:\Users\ASUS\.cargo\registry\src\index.crates.io-1949cf8c6b5b557f\sp-runtime-interface-28.0.0\src\lib.rs C:\Users\ASUS\.cargo\registry\src\index.crates.io-1949cf8c6b5b557f\sp-runtime-interface-28.0.0\src\host.rs C:\Users\ASUS\.cargo\registry\src\index.crates.io-1949cf8c6b5b557f\sp-runtime-interface-28.0.0\src\impls.rs C:\Users\ASUS\.cargo\registry\src\index.crates.io-1949cf8c6b5b557f\sp-runtime-interface-28.0.0\src\pass_by.rs C:\Users\ASUS\.cargo\registry\src\index.crates.io-1949cf8c6b5b557f\sp-runtime-interface-28.0.0\src\util.rs
+
+C:\Users\ASUS\.cargo\registry\src\index.crates.io-1949cf8c6b5b557f\sp-runtime-interface-28.0.0\src\lib.rs:
+C:\Users\ASUS\.cargo\registry\src\index.crates.io-1949cf8c6b5b557f\sp-runtime-interface-28.0.0\src\host.rs:
+C:\Users\ASUS\.cargo\registry\src\index.crates.io-1949cf8c6b5b557f\sp-runtime-interface-28.0.0\src\impls.rs:
+C:\Users\ASUS\.cargo\registry\src\index.crates.io-1949cf8c6b5b557f\sp-runtime-interface-28.0.0\src\pass_by.rs:
+C:\Users\ASUS\.cargo\registry\src\index.crates.io-1949cf8c6b5b557f\sp-runtime-interface-28.0.0\src\util.rs:

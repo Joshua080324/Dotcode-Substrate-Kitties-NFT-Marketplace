@@ -1,0 +1,9 @@
+C:\Users\ASUS\substrate-collectables-workshop\target\debug\deps\libsp_application_crypto-8e51a8a01fefad9b.rmeta: C:\Users\ASUS\.cargo\registry\src\index.crates.io-1949cf8c6b5b557f\sp-application-crypto-38.0.0\src\lib.rs C:\Users\ASUS\.cargo\registry\src\index.crates.io-1949cf8c6b5b557f\sp-application-crypto-38.0.0\src\ecdsa.rs C:\Users\ASUS\.cargo\registry\src\index.crates.io-1949cf8c6b5b557f\sp-application-crypto-38.0.0\src\ed25519.rs C:\Users\ASUS\.cargo\registry\src\index.crates.io-1949cf8c6b5b557f\sp-application-crypto-38.0.0\src\sr25519.rs C:\Users\ASUS\.cargo\registry\src\index.crates.io-1949cf8c6b5b557f\sp-application-crypto-38.0.0\src\traits.rs
+
+C:\Users\ASUS\substrate-collectables-workshop\target\debug\deps\sp_application_crypto-8e51a8a01fefad9b.d: C:\Users\ASUS\.cargo\registry\src\index.crates.io-1949cf8c6b5b557f\sp-application-crypto-38.0.0\src\lib.rs C:\Users\ASUS\.cargo\registry\src\index.crates.io-1949cf8c6b5b557f\sp-application-crypto-38.0.0\src\ecdsa.rs C:\Users\ASUS\.cargo\registry\src\index.crates.io-1949cf8c6b5b557f\sp-application-crypto-38.0.0\src\ed25519.rs C:\Users\ASUS\.cargo\registry\src\index.crates.io-1949cf8c6b5b557f\sp-application-crypto-38.0.0\src\sr25519.rs C:\Users\ASUS\.cargo\registry\src\index.crates.io-1949cf8c6b5b557f\sp-application-crypto-38.0.0\src\traits.rs
+
+C:\Users\ASUS\.cargo\registry\src\index.crates.io-1949cf8c6b5b557f\sp-application-crypto-38.0.0\src\lib.rs:
+C:\Users\ASUS\.cargo\registry\src\index.crates.io-1949cf8c6b5b557f\sp-application-crypto-38.0.0\src\ecdsa.rs:
+C:\Users\ASUS\.cargo\registry\src\index.crates.io-1949cf8c6b5b557f\sp-application-crypto-38.0.0\src\ed25519.rs:
+C:\Users\ASUS\.cargo\registry\src\index.crates.io-1949cf8c6b5b557f\sp-application-crypto-38.0.0\src\sr25519.rs:
+C:\Users\ASUS\.cargo\registry\src\index.crates.io-1949cf8c6b5b557f\sp-application-crypto-38.0.0\src\traits.rs:

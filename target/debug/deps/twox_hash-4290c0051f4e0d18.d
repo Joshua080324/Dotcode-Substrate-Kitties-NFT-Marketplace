@@ -1,0 +1,10 @@
+C:\Users\ASUS\substrate-collectables-workshop\target\debug\deps\twox_hash-4290c0051f4e0d18.d: C:\Users\ASUS\.cargo\registry\src\index.crates.io-1949cf8c6b5b557f\twox-hash-1.6.3\src\lib.rs C:\Users\ASUS\.cargo\registry\src\index.crates.io-1949cf8c6b5b557f\twox-hash-1.6.3\src\sixty_four.rs C:\Users\ASUS\.cargo\registry\src\index.crates.io-1949cf8c6b5b557f\twox-hash-1.6.3\src\thirty_two.rs C:\Users\ASUS\.cargo\registry\src\index.crates.io-1949cf8c6b5b557f\twox-hash-1.6.3\src\xxh3.rs C:\Users\ASUS\.cargo\registry\src\index.crates.io-1949cf8c6b5b557f\twox-hash-1.6.3\src\std_support.rs C:\Users\ASUS\.cargo\registry\src\index.crates.io-1949cf8c6b5b557f\twox-hash-1.6.3\src\digest_0_10_support.rs
+
+C:\Users\ASUS\substrate-collectables-workshop\target\debug\deps\libtwox_hash-4290c0051f4e0d18.rmeta: C:\Users\ASUS\.cargo\registry\src\index.crates.io-1949cf8c6b5b557f\twox-hash-1.6.3\src\lib.rs C:\Users\ASUS\.cargo\registry\src\index.crates.io-1949cf8c6b5b557f\twox-hash-1.6.3\src\sixty_four.rs C:\Users\ASUS\.cargo\registry\src\index.crates.io-1949cf8c6b5b557f\twox-hash-1.6.3\src\thirty_two.rs C:\Users\ASUS\.cargo\registry\src\index.crates.io-1949cf8c6b5b557f\twox-hash-1.6.3\src\xxh3.rs C:\Users\ASUS\.cargo\registry\src\index.crates.io-1949cf8c6b5b557f\twox-hash-1.6.3\src\std_support.rs C:\Users\ASUS\.cargo\registry\src\index.crates.io-1949cf8c6b5b557f\twox-hash-1.6.3\src\digest_0_10_support.rs
+
+C:\Users\ASUS\.cargo\registry\src\index.crates.io-1949cf8c6b5b557f\twox-hash-1.6.3\src\lib.rs:
+C:\Users\ASUS\.cargo\registry\src\index.crates.io-1949cf8c6b5b557f\twox-hash-1.6.3\src\sixty_four.rs:
+C:\Users\ASUS\.cargo\registry\src\index.crates.io-1949cf8c6b5b557f\twox-hash-1.6.3\src\thirty_two.rs:
+C:\Users\ASUS\.cargo\registry\src\index.crates.io-1949cf8c6b5b557f\twox-hash-1.6.3\src\xxh3.rs:
+C:\Users\ASUS\.cargo\registry\src\index.crates.io-1949cf8c6b5b557f\twox-hash-1.6.3\src\std_support.rs:
+C:\Users\ASUS\.cargo\registry\src\index.crates.io-1949cf8c6b5b557f\twox-hash-1.6.3\src\digest_0_10_support.rs:

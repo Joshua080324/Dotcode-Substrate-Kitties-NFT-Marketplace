@@ -1,0 +1,13 @@
+C:\Users\ASUS\substrate-collectables-workshop\target\debug\deps\libsha2-7e4bd96b859bfd23.rmeta: C:\Users\ASUS\.cargo\registry\src\index.crates.io-1949cf8c6b5b557f\sha2-0.10.8\src\lib.rs C:\Users\ASUS\.cargo\registry\src\index.crates.io-1949cf8c6b5b557f\sha2-0.10.8\src\core_api.rs C:\Users\ASUS\.cargo\registry\src\index.crates.io-1949cf8c6b5b557f\sha2-0.10.8\src\sha256.rs C:\Users\ASUS\.cargo\registry\src\index.crates.io-1949cf8c6b5b557f\sha2-0.10.8\src\sha512.rs C:\Users\ASUS\.cargo\registry\src\index.crates.io-1949cf8c6b5b557f\sha2-0.10.8\src\consts.rs C:\Users\ASUS\.cargo\registry\src\index.crates.io-1949cf8c6b5b557f\sha2-0.10.8\src\sha256\soft.rs C:\Users\ASUS\.cargo\registry\src\index.crates.io-1949cf8c6b5b557f\sha2-0.10.8\src\sha256\x86.rs C:\Users\ASUS\.cargo\registry\src\index.crates.io-1949cf8c6b5b557f\sha2-0.10.8\src\sha512\soft.rs C:\Users\ASUS\.cargo\registry\src\index.crates.io-1949cf8c6b5b557f\sha2-0.10.8\src\sha512\x86.rs
+
+C:\Users\ASUS\substrate-collectables-workshop\target\debug\deps\sha2-7e4bd96b859bfd23.d: C:\Users\ASUS\.cargo\registry\src\index.crates.io-1949cf8c6b5b557f\sha2-0.10.8\src\lib.rs C:\Users\ASUS\.cargo\registry\src\index.crates.io-1949cf8c6b5b557f\sha2-0.10.8\src\core_api.rs C:\Users\ASUS\.cargo\registry\src\index.crates.io-1949cf8c6b5b557f\sha2-0.10.8\src\sha256.rs C:\Users\ASUS\.cargo\registry\src\index.crates.io-1949cf8c6b5b557f\sha2-0.10.8\src\sha512.rs C:\Users\ASUS\.cargo\registry\src\index.crates.io-1949cf8c6b5b557f\sha2-0.10.8\src\consts.rs C:\Users\ASUS\.cargo\registry\src\index.crates.io-1949cf8c6b5b557f\sha2-0.10.8\src\sha256\soft.rs C:\Users\ASUS\.cargo\registry\src\index.crates.io-1949cf8c6b5b557f\sha2-0.10.8\src\sha256\x86.rs C:\Users\ASUS\.cargo\registry\src\index.crates.io-1949cf8c6b5b557f\sha2-0.10.8\src\sha512\soft.rs C:\Users\ASUS\.cargo\registry\src\index.crates.io-1949cf8c6b5b557f\sha2-0.10.8\src\sha512\x86.rs
+
+C:\Users\ASUS\.cargo\registry\src\index.crates.io-1949cf8c6b5b557f\sha2-0.10.8\src\lib.rs:
+C:\Users\ASUS\.cargo\registry\src\index.crates.io-1949cf8c6b5b557f\sha2-0.10.8\src\core_api.rs:
+C:\Users\ASUS\.cargo\registry\src\index.crates.io-1949cf8c6b5b557f\sha2-0.10.8\src\sha256.rs:
+C:\Users\ASUS\.cargo\registry\src\index.crates.io-1949cf8c6b5b557f\sha2-0.10.8\src\sha512.rs:
+C:\Users\ASUS\.cargo\registry\src\index.crates.io-1949cf8c6b5b557f\sha2-0.10.8\src\consts.rs:
+C:\Users\ASUS\.cargo\registry\src\index.crates.io-1949cf8c6b5b557f\sha2-0.10.8\src\sha256\soft.rs:
+C:\Users\ASUS\.cargo\registry\src\index.crates.io-1949cf8c6b5b557f\sha2-0.10.8\src\sha256\x86.rs:
+C:\Users\ASUS\.cargo\registry\src\index.crates.io-1949cf8c6b5b557f\sha2-0.10.8\src\sha512\soft.rs:
+C:\Users\ASUS\.cargo\registry\src\index.crates.io-1949cf8c6b5b557f\sha2-0.10.8\src\sha512\x86.rs:

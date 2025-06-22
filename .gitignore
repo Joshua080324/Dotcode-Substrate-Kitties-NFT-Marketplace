@@ -1,0 +1,7 @@
+echo "target/
+Cargo.lock
+node_modules/
+*.rs.bk
+.DS_Store
+.idea/
+.vscode/" > .gitignore

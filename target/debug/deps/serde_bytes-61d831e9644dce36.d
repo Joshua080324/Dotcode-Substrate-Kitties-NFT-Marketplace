@@ -1,0 +1,10 @@
+C:\Users\ASUS\substrate-collectables-workshop\target\debug\deps\libserde_bytes-61d831e9644dce36.rmeta: C:\Users\ASUS\.cargo\registry\src\index.crates.io-1949cf8c6b5b557f\serde_bytes-0.11.15\src\lib.rs C:\Users\ASUS\.cargo\registry\src\index.crates.io-1949cf8c6b5b557f\serde_bytes-0.11.15\src\bytearray.rs C:\Users\ASUS\.cargo\registry\src\index.crates.io-1949cf8c6b5b557f\serde_bytes-0.11.15\src\bytes.rs C:\Users\ASUS\.cargo\registry\src\index.crates.io-1949cf8c6b5b557f\serde_bytes-0.11.15\src\de.rs C:\Users\ASUS\.cargo\registry\src\index.crates.io-1949cf8c6b5b557f\serde_bytes-0.11.15\src\ser.rs C:\Users\ASUS\.cargo\registry\src\index.crates.io-1949cf8c6b5b557f\serde_bytes-0.11.15\src\bytebuf.rs
+
+C:\Users\ASUS\substrate-collectables-workshop\target\debug\deps\serde_bytes-61d831e9644dce36.d: C:\Users\ASUS\.cargo\registry\src\index.crates.io-1949cf8c6b5b557f\serde_bytes-0.11.15\src\lib.rs C:\Users\ASUS\.cargo\registry\src\index.crates.io-1949cf8c6b5b557f\serde_bytes-0.11.15\src\bytearray.rs C:\Users\ASUS\.cargo\registry\src\index.crates.io-1949cf8c6b5b557f\serde_bytes-0.11.15\src\bytes.rs C:\Users\ASUS\.cargo\registry\src\index.crates.io-1949cf8c6b5b557f\serde_bytes-0.11.15\src\de.rs C:\Users\ASUS\.cargo\registry\src\index.crates.io-1949cf8c6b5b557f\serde_bytes-0.11.15\src\ser.rs C:\Users\ASUS\.cargo\registry\src\index.crates.io-1949cf8c6b5b557f\serde_bytes-0.11.15\src\bytebuf.rs
+
+C:\Users\ASUS\.cargo\registry\src\index.crates.io-1949cf8c6b5b557f\serde_bytes-0.11.15\src\lib.rs:
+C:\Users\ASUS\.cargo\registry\src\index.crates.io-1949cf8c6b5b557f\serde_bytes-0.11.15\src\bytearray.rs:
+C:\Users\ASUS\.cargo\registry\src\index.crates.io-1949cf8c6b5b557f\serde_bytes-0.11.15\src\bytes.rs:
+C:\Users\ASUS\.cargo\registry\src\index.crates.io-1949cf8c6b5b557f\serde_bytes-0.11.15\src\de.rs:
+C:\Users\ASUS\.cargo\registry\src\index.crates.io-1949cf8c6b5b557f\serde_bytes-0.11.15\src\ser.rs:
+C:\Users\ASUS\.cargo\registry\src\index.crates.io-1949cf8c6b5b557f\serde_bytes-0.11.15\src\bytebuf.rs:

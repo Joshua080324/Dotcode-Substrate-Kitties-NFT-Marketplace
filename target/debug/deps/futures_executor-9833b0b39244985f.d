@@ -1,0 +1,9 @@
+C:\Users\ASUS\substrate-collectables-workshop\target\debug\deps\libfutures_executor-9833b0b39244985f.rmeta: C:\Users\ASUS\.cargo\registry\src\index.crates.io-1949cf8c6b5b557f\futures-executor-0.3.30\src\lib.rs C:\Users\ASUS\.cargo\registry\src\index.crates.io-1949cf8c6b5b557f\futures-executor-0.3.30\src\local_pool.rs C:\Users\ASUS\.cargo\registry\src\index.crates.io-1949cf8c6b5b557f\futures-executor-0.3.30\src\thread_pool.rs C:\Users\ASUS\.cargo\registry\src\index.crates.io-1949cf8c6b5b557f\futures-executor-0.3.30\src\unpark_mutex.rs C:\Users\ASUS\.cargo\registry\src\index.crates.io-1949cf8c6b5b557f\futures-executor-0.3.30\src\enter.rs
+
+C:\Users\ASUS\substrate-collectables-workshop\target\debug\deps\futures_executor-9833b0b39244985f.d: C:\Users\ASUS\.cargo\registry\src\index.crates.io-1949cf8c6b5b557f\futures-executor-0.3.30\src\lib.rs C:\Users\ASUS\.cargo\registry\src\index.crates.io-1949cf8c6b5b557f\futures-executor-0.3.30\src\local_pool.rs C:\Users\ASUS\.cargo\registry\src\index.crates.io-1949cf8c6b5b557f\futures-executor-0.3.30\src\thread_pool.rs C:\Users\ASUS\.cargo\registry\src\index.crates.io-1949cf8c6b5b557f\futures-executor-0.3.30\src\unpark_mutex.rs C:\Users\ASUS\.cargo\registry\src\index.crates.io-1949cf8c6b5b557f\futures-executor-0.3.30\src\enter.rs
+
+C:\Users\ASUS\.cargo\registry\src\index.crates.io-1949cf8c6b5b557f\futures-executor-0.3.30\src\lib.rs:
+C:\Users\ASUS\.cargo\registry\src\index.crates.io-1949cf8c6b5b557f\futures-executor-0.3.30\src\local_pool.rs:
+C:\Users\ASUS\.cargo\registry\src\index.crates.io-1949cf8c6b5b557f\futures-executor-0.3.30\src\thread_pool.rs:
+C:\Users\ASUS\.cargo\registry\src\index.crates.io-1949cf8c6b5b557f\futures-executor-0.3.30\src\unpark_mutex.rs:
+C:\Users\ASUS\.cargo\registry\src\index.crates.io-1949cf8c6b5b557f\futures-executor-0.3.30\src\enter.rs:

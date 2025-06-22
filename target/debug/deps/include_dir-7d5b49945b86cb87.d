@@ -1,0 +1,11 @@
+C:\Users\ASUS\substrate-collectables-workshop\target\debug\deps\include_dir-7d5b49945b86cb87.d: C:\Users\ASUS\.cargo\registry\src\index.crates.io-1949cf8c6b5b557f\include_dir-0.7.4\src\lib.rs C:\Users\ASUS\.cargo\registry\src\index.crates.io-1949cf8c6b5b557f\include_dir-0.7.4\src\dir.rs C:\Users\ASUS\.cargo\registry\src\index.crates.io-1949cf8c6b5b557f\include_dir-0.7.4\src\dir_entry.rs C:\Users\ASUS\.cargo\registry\src\index.crates.io-1949cf8c6b5b557f\include_dir-0.7.4\src\file.rs C:\Users\ASUS\.cargo\registry\src\index.crates.io-1949cf8c6b5b557f\include_dir-0.7.4\src\../README.md
+
+C:\Users\ASUS\substrate-collectables-workshop\target\debug\deps\libinclude_dir-7d5b49945b86cb87.rlib: C:\Users\ASUS\.cargo\registry\src\index.crates.io-1949cf8c6b5b557f\include_dir-0.7.4\src\lib.rs C:\Users\ASUS\.cargo\registry\src\index.crates.io-1949cf8c6b5b557f\include_dir-0.7.4\src\dir.rs C:\Users\ASUS\.cargo\registry\src\index.crates.io-1949cf8c6b5b557f\include_dir-0.7.4\src\dir_entry.rs C:\Users\ASUS\.cargo\registry\src\index.crates.io-1949cf8c6b5b557f\include_dir-0.7.4\src\file.rs C:\Users\ASUS\.cargo\registry\src\index.crates.io-1949cf8c6b5b557f\include_dir-0.7.4\src\../README.md
+
+C:\Users\ASUS\substrate-collectables-workshop\target\debug\deps\libinclude_dir-7d5b49945b86cb87.rmeta: C:\Users\ASUS\.cargo\registry\src\index.crates.io-1949cf8c6b5b557f\include_dir-0.7.4\src\lib.rs C:\Users\ASUS\.cargo\registry\src\index.crates.io-1949cf8c6b5b557f\include_dir-0.7.4\src\dir.rs C:\Users\ASUS\.cargo\registry\src\index.crates.io-1949cf8c6b5b557f\include_dir-0.7.4\src\dir_entry.rs C:\Users\ASUS\.cargo\registry\src\index.crates.io-1949cf8c6b5b557f\include_dir-0.7.4\src\file.rs C:\Users\ASUS\.cargo\registry\src\index.crates.io-1949cf8c6b5b557f\include_dir-0.7.4\src\../README.md
+
+C:\Users\ASUS\.cargo\registry\src\index.crates.io-1949cf8c6b5b557f\include_dir-0.7.4\src\lib.rs:
+C:\Users\ASUS\.cargo\registry\src\index.crates.io-1949cf8c6b5b557f\include_dir-0.7.4\src\dir.rs:
+C:\Users\ASUS\.cargo\registry\src\index.crates.io-1949cf8c6b5b557f\include_dir-0.7.4\src\dir_entry.rs:
+C:\Users\ASUS\.cargo\registry\src\index.crates.io-1949cf8c6b5b557f\include_dir-0.7.4\src\file.rs:
+C:\Users\ASUS\.cargo\registry\src\index.crates.io-1949cf8c6b5b557f\include_dir-0.7.4\src\../README.md:

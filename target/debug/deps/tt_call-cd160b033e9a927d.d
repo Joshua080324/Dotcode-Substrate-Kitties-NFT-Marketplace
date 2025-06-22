@@ -1,0 +1,12 @@
+C:\Users\ASUS\substrate-collectables-workshop\target\debug\deps\libtt_call-cd160b033e9a927d.rmeta: C:\Users\ASUS\.cargo\registry\src\index.crates.io-1949cf8c6b5b557f\tt-call-1.0.9\src\lib.rs C:\Users\ASUS\.cargo\registry\src\index.crates.io-1949cf8c6b5b557f\tt-call-1.0.9\src\predicate.rs C:\Users\ASUS\.cargo\registry\src\index.crates.io-1949cf8c6b5b557f\tt-call-1.0.9\src\replace.rs C:\Users\ASUS\.cargo\registry\src\index.crates.io-1949cf8c6b5b557f\tt-call-1.0.9\src\rust\mod.rs C:\Users\ASUS\.cargo\registry\src\index.crates.io-1949cf8c6b5b557f\tt-call-1.0.9\src\rust\expr.rs C:\Users\ASUS\.cargo\registry\src\index.crates.io-1949cf8c6b5b557f\tt-call-1.0.9\src\rust\path.rs C:\Users\ASUS\.cargo\registry\src\index.crates.io-1949cf8c6b5b557f\tt-call-1.0.9\src\rust\ty.rs C:\Users\ASUS\.cargo\registry\src\index.crates.io-1949cf8c6b5b557f\tt-call-1.0.9\src\unexpected.rs
+
+C:\Users\ASUS\substrate-collectables-workshop\target\debug\deps\tt_call-cd160b033e9a927d.d: C:\Users\ASUS\.cargo\registry\src\index.crates.io-1949cf8c6b5b557f\tt-call-1.0.9\src\lib.rs C:\Users\ASUS\.cargo\registry\src\index.crates.io-1949cf8c6b5b557f\tt-call-1.0.9\src\predicate.rs C:\Users\ASUS\.cargo\registry\src\index.crates.io-1949cf8c6b5b557f\tt-call-1.0.9\src\replace.rs C:\Users\ASUS\.cargo\registry\src\index.crates.io-1949cf8c6b5b557f\tt-call-1.0.9\src\rust\mod.rs C:\Users\ASUS\.cargo\registry\src\index.crates.io-1949cf8c6b5b557f\tt-call-1.0.9\src\rust\expr.rs C:\Users\ASUS\.cargo\registry\src\index.crates.io-1949cf8c6b5b557f\tt-call-1.0.9\src\rust\path.rs C:\Users\ASUS\.cargo\registry\src\index.crates.io-1949cf8c6b5b557f\tt-call-1.0.9\src\rust\ty.rs C:\Users\ASUS\.cargo\registry\src\index.crates.io-1949cf8c6b5b557f\tt-call-1.0.9\src\unexpected.rs
+
+C:\Users\ASUS\.cargo\registry\src\index.crates.io-1949cf8c6b5b557f\tt-call-1.0.9\src\lib.rs:
+C:\Users\ASUS\.cargo\registry\src\index.crates.io-1949cf8c6b5b557f\tt-call-1.0.9\src\predicate.rs:
+C:\Users\ASUS\.cargo\registry\src\index.crates.io-1949cf8c6b5b557f\tt-call-1.0.9\src\replace.rs:
+C:\Users\ASUS\.cargo\registry\src\index.crates.io-1949cf8c6b5b557f\tt-call-1.0.9\src\rust\mod.rs:
+C:\Users\ASUS\.cargo\registry\src\index.crates.io-1949cf8c6b5b557f\tt-call-1.0.9\src\rust\expr.rs:
+C:\Users\ASUS\.cargo\registry\src\index.crates.io-1949cf8c6b5b557f\tt-call-1.0.9\src\rust\path.rs:
+C:\Users\ASUS\.cargo\registry\src\index.crates.io-1949cf8c6b5b557f\tt-call-1.0.9\src\rust\ty.rs:
+C:\Users\ASUS\.cargo\registry\src\index.crates.io-1949cf8c6b5b557f\tt-call-1.0.9\src\unexpected.rs:
